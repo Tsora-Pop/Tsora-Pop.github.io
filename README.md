@@ -1,2 +1,3 @@
 # Tsora-Pop.github.io
-Portfolio and Resume
+Portfolio and Resume website under construction
+source for Tsora-Pop.github.io
