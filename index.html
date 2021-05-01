@@ -48,41 +48,39 @@ title: Tsora Pop Home Page
           <div class="card" style="width: 12rem;">
             <div class="card-header"><h5>Skill Categories</h5></div>
               <div class= "col">
-                <div class="btn-group-vertical" role="group" aria-label="Basic radio toggle button group">
-                  <input type="radio" class="btn-check" name="btnradio" id="btnradio1" autocomplete="off" checked>
-                  <label class="btn btn-outline-primary" for="btnradio1">SIEM/SOAR</label>
-                  <input type="radio" class="btn-check" name="btnradio" id="btnradio2" autocomplete="off">
-                  <label class="btn btn-outline-primary" for="btnradio2">Endpoint</label>
-                  <input type="radio" class="btn-check" name="btnradio" id="btnradio3" autocomplete="off">
-                  <label class="btn btn-outline-primary" for="btnradio3">Network</label>
-                  <input type="radio" class="btn-check" name="btnradio" id="btnradio4" autocomplete="off">
-                  <label class="btn btn-outline-primary" for="btnradio4">Cloud</label>
-                  <input type="radio" class="btn-check" name="btnradio" id="btnradio5" autocomplete="off">
-                  <label class="btn btn-outline-primary" for="btnradio5">Languages</label>
-                  <input type="radio" class="btn-check" name="btnradio" id="btnradio6" autocomplete="off">
-                  <label class="btn btn-outline-primary" for="btnradio6">Penetration Testing</label>
+                <div class="list-group" id="list-tab" role="tablist">
+                  <a class="list-group-item list-group-item-action active" id="list-siem-list" data-bs-toggle="list" href="#list-siem" role="tab" aria-controls="siem">SIEM/SOAR</a>
+                  <a class="list-group-item list-group-item-action active" id="list-endpoint-list" data-bs-toggle="list" href="#list-endpoint" role="tab" aria-controls="endpoint">Endpoint</a>
+                  <a class="list-group-item list-group-item-action active" id="list-network-list" data-bs-toggle="list" href="#list-network" role="tab" aria-controls="network">Network</a>
+                  <a class="list-group-item list-group-item-action active" id="list-cloud-list" data-bs-toggle="list" href="#list-cloud" role="tab" aria-controls="cloud">Cloud</a>
+                  <a class="list-group-item list-group-item-action active" id="list-languages-list" data-bs-toggle="list" href="#list-languages" role="tab" aria-controls="languages">Languages</a>
+                  <a class="list-group-item list-group-item-action active" id="list-penetration-list" data-bs-toggle="list" href="#list-penetration" role="tab" aria-controls="penetration">Penetration Testing</a>
                 </div>
               </div>
           </div>
           <div class="card" style="width: 20rem;">
             <div class="card-header"><h5>Skill Levels</h5></div>
               <div class= "col">
-                <ul class="list-group">
-                  <li class="list-group-item d-flex justify-content-between align-items-center">
-                    Kusto Query Language
-                    <span class="badge bg-primary rounded-pill">10</span>
-                  </li>
-                  <li class="list-group-item d-flex justify-content-between align-items-center">
-                    Microsoft Defender for Endpoint
-                    <span class="badge bg-primary rounded-pill">9</span>
-                  </li>
-                  <li class="list-group-item d-flex justify-content-between align-items-center">
-                    Azure Sentinel
-                    <span class="badge bg-primary rounded-pill">6</span>
-                  </li>
-                </ul>
+                <div class="tab-content" id="nav-tabContent">
+                  <div class="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="list-siem-list">
+                    <ul class="list-group">
+                      <li class="list-group-item d-flex justify-content-between align-items-center">
+                        ArcSight
+                        <span class="badge bg-primary rounded-pill">10</span>
+                      </li>
+                      <li class="list-group-item d-flex justify-content-between align-items-center">
+                        Splunk
+                        <span class="badge bg-primary rounded-pill">9</span>
+                      </li>
+                      <li class="list-group-item d-flex justify-content-between align-items-center">
+                        Azure Sentinel
+                        <span class="badge bg-primary rounded-pill">6</span>
+                      </li>
+                  </ul>
+                  </div>
                 </div>
-      </div>
+              </div>
+            </div>
       <div class="col-4">
         <img src="assets/tenor.gif" alt="gif of me">
       </div>
