@@ -1,9 +1,9 @@
 ---
 layout: default
-title: blog
+title: Research
 ---
 <div class="container">
-  <div class="row gy-5 justify-content-center">
+  <div class="row justify-content-center">
     <br><br>
     <ul>
       {% for post in site.posts %}
@@ -11,6 +11,7 @@ title: blog
           <a href="{{ post.url }}">{{ post.title }}</a>
           {{ post.excerpt }}
         </li>
+        <hr class="featurette-divider">
       {% endfor %}
     </ul>
   </div>
