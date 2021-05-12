@@ -7,7 +7,7 @@ title: Research
       {% for post in site.posts %}
         <div class="col">
           <div class="card">
-            <img src="..." class="card-img-top" alt="...">
+            {{ post.headimage }} class="card-img-top" alt="Header Image">
             <div class="card-body">
               <strong class="d-inline-block mb-2 text-primary">{{ post.tag }}</strong>
               <h3 class="card-title">{{ post.title }}</h3>
