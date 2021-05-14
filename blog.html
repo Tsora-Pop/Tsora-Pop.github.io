@@ -4,7 +4,9 @@ title: Blog
 ---
 <div class="container">
   <div class="row">
-    {{ site.tags}}
+    {% for tag in site.tags %}
+        "{{ tag | first }}"{% unless forloop.last %},{% endunless %}
+    {% endfor %}
   </div>
 </div>
 <div class="card text-center">
