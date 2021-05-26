@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-headimage: headimage: <img src= "assets/tenor.gif" class="card-img-top" alt="Header Image" width="300" height="100">
+headimage: <img src= "assets/tenor.gif" class="card-img-top" alt="Header Image" width="300" height="100">
 published: May 26, 2021
 ---
 ## {{ page.title}}
