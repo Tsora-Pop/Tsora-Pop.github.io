@@ -12,9 +12,11 @@ This is a list of security related questions for interviews. This is mostly for 
 may find it useful<!--more-->
 ### General Security
 
-1. Describe the CIA Triad
+1. Describe the CIA Triad.
 2. False Positive vs a False Negative?
 3. What is the MITRE ATT&CK framework?
+4. Name some CIS Top 20 Security Controls.
+5. Name some of the OWASP top ten web application security risks.
 
 ### Network Questions
 1. How is UDP different from TCP?
@@ -39,6 +41,7 @@ may find it useful<!--more-->
 20. Explain which interfaces it is more worthwhile to have IDS/IPS on, WAN or LAN interfaces?
 
 ### Endpoint Questions
+1.
 
 ### Cloud Questions
 
@@ -49,16 +52,34 @@ may find it useful<!--more-->
 4. Your console is getting flooded with scanning alerts. You've identified the source of the traffic to come from a member of the Vulnerability Assessment team. They routinely perform these scans. What should you do?
 
 ### Incident Response Questions
-1. Describe the Incident Response phases.
+1. Describe either the SANS or NIST Incident Response framework steps.
+2. Describe the OODA loop.
+3. What are some IOC categories to record?
 
 ### Forensics Questions
 
 ### Detection Engineering Questions
+1.
 
 ### Programming Questions
+1. tabs or spaces?
 
 ### Vulnerability Management Questions
 
-### Penetration Testing Questions
+### Security Assessment Questions
+1. Describe XSS
+2. Describe SQL Injection
+3. Describe CSRF
+4. Describe a penetration test methodology
+5. When would you use NMAP?
+6. Differentiate between vulnerability scanning and a pentest.
+7. Differentiate between a pentest and a Red Team engagement.
+8. Differentiate between bug bounty hunting and a pentest.
+9. You've identified a vulnerability in a web application, where can you find exploit proof of concept code?
+10. What should be included in a pentest report?
 
 ### Governance, Compliance, and Risk Questions
+1. What is Risk?
+2. What is Compliance?
+3. What is Governance?
+4. What is an IT audit?
