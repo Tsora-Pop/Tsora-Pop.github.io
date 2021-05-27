@@ -9,7 +9,7 @@ tag: Study
 {{ page.published }}
 
 This is a list of security related questions for interviews. This is mostly for myself, but others
-may find it useful. If anyone decides to use this, it is normal for people to blank on certain things. A technical interview is essentially a test for the interviewee with no study materials. <!--more-->
+may find it useful. <!--more-->If anyone decides to use this, it is normal for people to blank on certain things. A technical interview is essentially a test for the interviewee with no study materials. 
 ### General Security
 
 1. Describe the CIA Triad.
