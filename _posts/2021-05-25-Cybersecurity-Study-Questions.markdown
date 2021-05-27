@@ -12,7 +12,9 @@ This is a list of security related questions for interviews. This is mostly for 
 may find it useful<!--more-->
 ### General Security
 
-`Describe the CIA Triad`
+1. Describe the CIA Triad
+2. False Positive vs a False Negative?
+3. What is the MITRE ATT&CK framework?
 
 ### Network Questions
 1. How is UDP different from TCP?
@@ -36,15 +38,18 @@ may find it useful<!--more-->
 19. What is a VPN?
 20. Explain which interfaces it is more worthwhile to have IDS/IPS on, WAN or LAN interfaces?
 
-### Describe the TCP handshake?
-
 ### Endpoint Questions
 
 ### Cloud Questions
 
 ### Security Operations Questions
+1. You've identified an alert on your SIEM as a FP. What are your next steps?
+2. Your console hasn't had any alerts in an hour. After checking some settings, you've identified that your SIEM is not working properly. What are your next steps?
+3. You've identified a TP on an endpoint for malware calling back to a C2. What contain procedures should you take?
+4. Your console is getting flooded with scanning alerts. You've identified the source of the traffic to come from a member of the Vulnerability Assessment team. They routinely perform these scans. What should you do?
 
 ### Incident Response Questions
+1. Describe the Incident Response phases.
 
 ### Forensics Questions
 
