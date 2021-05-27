@@ -15,6 +15,26 @@ may find it useful<!--more-->
 `Describe the CIA Triad`
 
 ### Network Questions
+1. How is UDP different from TCP?
+2. Describe the TCP handshake.
+3. What is NAT?
+4. What is DHCP?
+5. What is ARP?
+6. How does DNS work?
+7. HTTP port
+8. DNS port
+9. SMTP port
+10. SNMP port
+11. HTTPS port
+12. SSH port
+13. RDP port
+14. SMB port
+15. What is IDS and give an example?
+16. How does IPS differ from IDS?
+17. Describe firewall rules and name a few important example rules
+18. What is a VLAN?
+19. What is a VPN?
+20. Explain which interfaces it is more worthwhile to have IDS/IPS on, WAN or LAN interfaces?
 
 ### Describe the TCP handshake?
 
