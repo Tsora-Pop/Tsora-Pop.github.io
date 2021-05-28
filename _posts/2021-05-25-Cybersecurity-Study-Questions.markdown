@@ -77,7 +77,7 @@ may find it useful. <!--more-->If anyone decides to use this, it is normal for p
 3. How would you handle a parsing issue?
 
 ### Programming Questions
-1. tabs or spaces? :trollface:
+1. tabs or spaces? 
 
 ### Vulnerability Management Questions
 
