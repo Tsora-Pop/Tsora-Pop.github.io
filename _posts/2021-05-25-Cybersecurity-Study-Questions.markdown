@@ -18,6 +18,8 @@ may find it useful. <!--more-->If anyone decides to use this, it is normal for p
 4. Name some CIS Top 20 Security Controls.
 5. Name some of the OWASP top ten web application security risks.
 6. Describe Defense-In-Depth.
+7. Asymmetric encryption vs symmetric encryption
+8. Hashing vs encryption
 
 ### Network Questions
 1. How is UDP different from TCP?
@@ -40,11 +42,12 @@ may find it useful. <!--more-->If anyone decides to use this, it is normal for p
 18. What is a VLAN?
 19. What is a VPN?
 20. Explain which interfaces it is more worthwhile to have IDS/IPS on, WAN or LAN interfaces?
+21. What ports relate to NFS?
 
 ### Endpoint Questions
 1. What are some windows events to be concerned about?
 2. A malicious actor installed a backdoor on an endpoint. You have already isolated the device and evicted the actor. What are some additional steps to take?
-3. What are possible actions to take when removing malicious software?
+3. What are possible actions to take when removing malicious software on a Windows device?
 
 ### Cloud Questions
 
@@ -77,7 +80,8 @@ may find it useful. <!--more-->If anyone decides to use this, it is normal for p
 3. How would you handle a parsing issue?
 
 ### Programming Questions
-1. tabs or spaces? 
+1. tabs or spaces?
+2. When would you use a For loop vs a while loop and vice versa?
 
 ### Vulnerability Management Questions
 
