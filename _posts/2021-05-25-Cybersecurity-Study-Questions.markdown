@@ -8,6 +8,7 @@ tag: Study
 ---
 ## {{ page.title}}
 Published: {{ page.published }}
+
 Last Updated: {{ page.updated }}
 
 This is a list of security related questions for interviews. This is mostly for myself, but others
