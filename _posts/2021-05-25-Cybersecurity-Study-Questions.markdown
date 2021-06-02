@@ -2,7 +2,7 @@
 layout: post
 headimage: <img src= "assets/tenor.gif" class="card-img-top" alt="Header Image" width="300" height="100">
 published: May 25, 2021
-updated: May 31, 2021
+updated: June 2, 2021
 excerpt_separator: <!--more-->
 tag: Study
 ---
