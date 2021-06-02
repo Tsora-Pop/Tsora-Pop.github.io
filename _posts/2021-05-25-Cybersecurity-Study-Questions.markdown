@@ -51,6 +51,13 @@ may find it useful. <!--more-->If anyone decides to use this, it is normal for p
 1. What are some windows events to be concerned about?
 2. A malicious actor installed a backdoor on an endpoint. You have already isolated the device and evicted the actor. What are some additional steps to take?
 3. What are possible actions to take when removing malicious software on a Windows device?
+4. What is AppArmor on Ubuntu Linux?
+5. Where are usernames stored on Linux? Passwords?
+6. What is the purpose of iptables on Linux?
+7. You get an alert on your SIEM that a Windows host firewall just enabled the below unsafe rule. What is unsafe about it?
+```
+netsh advfirewall firewall add rule name="My Application" dir=in action=allow program="C:\MyApp\MyApp.exe" enable=yes remoteip=100.xxx.xxx.1 profile=public
+```
 
 ### Cloud Questions
 
