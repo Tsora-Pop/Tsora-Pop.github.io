@@ -1,6 +1,6 @@
 ---
 layout: post
-headimage: <img src= "assets/Generic_Feed.png" class="card-img-top" alt="Header Image" width="300" height="100">
+headimage: <img src= "assets/Generic_Feed.png" class="card-img-top" alt="Header Image" width="100" height="100">
 published: June 5, 2021
 updated: June 5, 2021
 excerpt_separator: <!--more-->
@@ -13,7 +13,7 @@ Last Updated: {{ page.updated }}
 
 The below is a list of useful RSS feeds to have in your feed reader application. My personal favorite is to use Slack in an RSS channel using `/feed add` but feel free to use Teams or whatever other reader application. <!--more-->
 
-It is a little unorganized at the moment and not many feed links are included. I will return to update and post them. 
+It is a little unorganized at the moment and not many feed links are included. I will return to update and post them.
 
 * My Blog =): https://tsora-pop.github.io/feed.xml
 * Microsoft
