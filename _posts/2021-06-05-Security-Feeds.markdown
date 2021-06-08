@@ -90,3 +90,4 @@ It is a little unorganized at the moment and not many feed links are included. I
 * MS ISAC
 * JP SOC English Versions
 * AU, EU, Ca Resources
+* Fastly
