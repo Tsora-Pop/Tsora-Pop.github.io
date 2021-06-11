@@ -1,10 +1,10 @@
 ---
 layout: post
 headimage: <img src= "assets/jobhunt.PNG" class="card-img-top" alt="Header Image" width="100" height="100">
-published: June 5, 2021
-updated: June 5, 2021
+published: June 11, 2021
+updated: June 11, 2021
 excerpt_separator: <!--more-->
-tag: Resources
+tag: Career
 ---
 ## {{ page.title}}
 Published: {{ page.published }}
