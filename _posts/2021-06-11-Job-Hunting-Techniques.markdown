@@ -1,6 +1,6 @@
 ---
 layout: post
-headimage: <img src= "assets/jobhunt.png" class="card-img-top" alt="Header Image" width="100" height="100">
+headimage: <img src= "assets/jobhunt.PNG" class="card-img-top" alt="Header Image" width="100" height="100">
 published: June 5, 2021
 updated: June 5, 2021
 excerpt_separator: <!--more-->
@@ -47,4 +47,4 @@ To me, a common interview process is
 2. An interview based on work process and history with Team Manager
 3. Optional Technical Interview
 
-Preparing for the process interview may be something you think will be easy, but a big portion of this is to gauge your communication skills and how well you work with others. 
+Preparing for the process interview may be something you think will be easy, but a big portion of this is to gauge your communication skills and how well you work with others.
