@@ -46,6 +46,7 @@ It is a little unorganized at the moment and not many feed links are included. I
 * github
 * GitLab
 * VMWare
+* Elastic: https://www.elastic.co/blog/feed
 * Cubic
 * Lockheed
 * Raytheon
