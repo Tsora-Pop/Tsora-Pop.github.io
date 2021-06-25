@@ -88,7 +88,6 @@ Please know that these are feeds I find useful, there are several organizations 
 * Canadian Centre for Cyber Security - Blogs: https://cyber.gc.ca/webservice/en/rss/blog
 * Canadian Centre for Cyber Security - Guidance: https://cyber.gc.ca/webservice/en/rss/guidance
 * UK National Cyber Security Centre: https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml
-
 * Krebs On Security: http://krebsonsecurity.com/feed/
 
 ## Non-RSS Feeds
