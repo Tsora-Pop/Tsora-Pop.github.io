@@ -2,25 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Coinbase Redirect</title>
-  <script>
-    let opened = false;
-
-    function openCoinbase() {
-      if (!opened) {
-        window.open("https://www.coinbase.com/", "_blank");
-        opened = true;
-      }
-    }
-
-    window.onload = function() {
-      openCoinbase();
-    };
-  </script>
+  <title>Redirect to Coinbase</title>
+  <meta http-equiv="refresh" content="0;url=https://www.coinbase.com/">
 </head>
 <body>
-  <h1>Welcome!</h1>
-  <p>If Coinbase didn’t open automatically, click the button below:</p>
-  <button onclick="openCoinbase()">Open Coinbase</button>
+  <p>Redirecting to Coinbase...</p>
 </body>
 </html>
